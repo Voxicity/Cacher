@@ -1,4 +1,4 @@
-# Cacher
+# 📦Cacher
 Cacher is a simple, easy to use, caching library for any instance.
 
 ## Installation
